@@ -220,3 +220,9 @@ __marimo__/
 .streamlit/secrets.toml
 .venv
 .DS_Store
+
+# Python cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
